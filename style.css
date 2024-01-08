@@ -2,15 +2,18 @@ body {
     background: #F3E5F5;
     padding: 1%;
     font-family: Optima, sans-serif;
-    font: #62595F;
+    color: #62595F;
   }
 h1 {
     font-size: 50px;
     font-weight: bold;
+    padding-top: 100px;
+    padding-bottom: 200px;
 }
 h2 {
     font-size: 22px;
     font-weight: bold;
+    padding-top: 25px;
 }
 p {
     font-size: 18px;
@@ -22,10 +25,13 @@ p {
     width: 25%;
     float: left;
   }
-  img {
-    float: inline;
-  }
   h3 {
     font-size: 8px;
     font-style: italic;
+  }
+  img {
+    padding: 9px;
+  }
+  a {
+    color: #AF9690;
   }
