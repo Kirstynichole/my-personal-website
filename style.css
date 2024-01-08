@@ -22,3 +22,10 @@ p {
     width: 25%;
     float: left;
   }
+  img {
+    float: inline;
+  }
+  h3 {
+    font-size: 8px;
+    font-style: italic;
+  }
